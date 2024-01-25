@@ -30,7 +30,7 @@
     display: flex;
     font-size: 17px;
     margin-left: 16vw;
-    padding-top: 3vh;
+    padding-top: 2.5vh;
     width: 32vw;
     height: 6vh;
 }
@@ -41,12 +41,12 @@
     padding-left: 2vw; 
 }
 
-.options a:hover{
+/* .options a:hover{
     color: #FFF4EF;
     background-color: rgb(255, 72, 0);
     width: 2vw;
     height: 8vh;
-}
+} */
 
 .buttonQuote{
     background-color: rgb(255, 72, 0);
@@ -57,8 +57,4 @@
     font-size: 14px;
     margin-left: 20vw;
 }
-
-
-
-
 
